@@ -1,15 +1,13 @@
 phrase:
-  access_token: 537d43e60d55660b6dc7641180679420491a08029bbe9ef1564ba18eb4d788eb
-  project_id: 6c6afc58bc366c359bf9ef328b1ba83c
+  access_token: 2542ccdb9c2d4f7e462cf376af3cd8ad66ded4a0a7ab53207dd113721b58e27c
+  project_id: 1a1ce4ce3ba3e9dffb832ac3a7ad7acd
   push:
     sources:
-    - file: ./config/locales/en.arb
+    - file: ./<locale_name>.arb
       params:
         file_format: arb
-        locale_id: en-US
   pull:
     targets:
-    - file: .config/locales/en.arb
+    - file: ./<locale_name>.arb
       params:
         file_format: arb
-        locale_id: en-US
