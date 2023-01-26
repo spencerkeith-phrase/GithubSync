@@ -3,13 +3,13 @@ phrase:
   project_id: 6c6afc58bc366c359bf9ef328b1ba83c
   push:
     sources:
-    - file: githubsync/example_strings.arb
+    - file: ./config/locales/en.arb
       params:
         file_format: arb
         locale_id: en-US
   pull:
     targets:
-    - file: githubsync/example_strings.arb
+    - file: .config/locales/en.arb
       params:
         file_format: arb
         locale_id: en-US
