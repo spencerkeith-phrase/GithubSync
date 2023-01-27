@@ -1,3 +1,11 @@
 {
-  "@@locale": "ko_KR"
+  "@@locale": "ko_KR",
+  "email.body": "빠른 갈색 여우는 게으른 개를 뛰어 넘었습니다.",
+  "@email.body": {
+    "type": "text"
+  },
+  "email.subject_line": "이것은 내 이메일의 제목 줄입니다.",
+  "@email.subject_line": {
+    "type": "text"
+  }
 }

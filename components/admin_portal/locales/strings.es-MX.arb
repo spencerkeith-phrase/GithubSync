@@ -1,3 +1,7 @@
 {
-  "@@locale": "es_MX"
+  "@@locale": "es_MX",
+  "admin.login": "Inicio de sesión de administrador",
+  "@admin.login": {
+    "type": "text"
+  }
 }

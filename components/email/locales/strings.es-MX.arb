@@ -1,3 +1,11 @@
 {
-  "@@locale": "es_MX"
+  "@@locale": "es_MX",
+  "email.body": "El rápido zorro marrón saltó sobre el perro perezoso.",
+  "@email.body": {
+    "type": "text"
+  },
+  "email.subject_line": "Esta es la línea de asunto de mi correo electrónico",
+  "@email.subject_line": {
+    "type": "text"
+  }
 }

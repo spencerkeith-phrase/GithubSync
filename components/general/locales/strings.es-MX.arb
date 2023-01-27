@@ -1,3 +1,15 @@
 {
-  "@@locale": "es_MX"
+  "@@locale": "es_MX",
+  "general.agree_button": "Acuerdo",
+  "@general.agree_button": {
+    "type": "text"
+  },
+  "general.next": "Próximo",
+  "@general.next": {
+    "type": "text"
+  },
+  "general.title": "Cadenas de frase",
+  "@general.title": {
+    "type": "text"
+  }
 }
