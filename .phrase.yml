@@ -25,3 +25,4 @@ phrase:
         file_format: arb
         tags: admin
         include_empty_translations: false
+        
