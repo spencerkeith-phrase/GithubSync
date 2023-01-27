@@ -1,10 +1,10 @@
 {
   "@@locale": "en_US",
-  "general.agree_button": "agree",
+  "general.agree_button": "Agree",
   "@general.agree_button": {
     "type": "text"
   },
-  "general.next": "next",
+  "general.next": "Next",
   "@general.next": {
     "type": "text"
   },

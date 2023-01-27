@@ -1,0 +1,7 @@
+{
+  "@@locale": "en_US",
+  "admin.login": "Administrator Login",
+  "@admin.login": {
+    "type": "text"
+  }
+}
