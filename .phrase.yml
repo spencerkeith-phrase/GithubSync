@@ -3,11 +3,11 @@ phrase:
   project_id: 1a1ce4ce3ba3e9dffb832ac3a7ad7acd
   push:
     sources:
-    - file: .components/email/strings/<locale_name>.arb
+    - file: components/email/strings/<locale_name>.arb
       params:
         file_format: arb
   pull:
     targets:
-    - file: .components/email/strings./<locale_name>.arb
+    - file: components/email/strings./<locale_name>.arb
       params:
         file_format: arb
