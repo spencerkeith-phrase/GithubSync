@@ -19,3 +19,9 @@ phrase:
         file_format: arb
         tags: general
         include_empty_translations: false
+     
+    - file: components/admin_portal/locales/strings.<locale_name>.arb
+      params:
+        file_format: arb
+        tags: admin
+        include_empty_translations: false
