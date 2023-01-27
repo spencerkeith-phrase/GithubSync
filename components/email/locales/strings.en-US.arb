@@ -15,5 +15,9 @@
   "general.title": "Phrase Strings",
   "@general.title": {
     "type": "text"
+  },
+  "general.agree_button": "agree",
+  "@general.agree_button": {
+    "type": "text"
   }
 }
