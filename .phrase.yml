@@ -11,3 +11,11 @@ phrase:
     - file: components/email/locales/strings.<locale_name>.arb
       params:
         file_format: arb
+        tags: email
+        include_empty_translations: false
+
+ - file: components/general/locales/strings.<locale_name>.arb
+      params:
+        file_format: arb
+        tags: general
+        include_empty_translations: false
