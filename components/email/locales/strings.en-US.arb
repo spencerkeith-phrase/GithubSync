@@ -8,6 +8,10 @@
   "@email.subject_line": {
     "type": "text"
   },
+  "general.agree_button": "agree",
+  "@general.agree_button": {
+    "type": "text"
+  },
   "general.next": "next",
   "@general.next": {
     "type": "text"
