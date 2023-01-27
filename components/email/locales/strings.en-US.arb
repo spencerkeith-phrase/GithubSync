@@ -1,0 +1,19 @@
+{
+  "@@locale": "en_US",
+  "email.body": "The quick brown fox jumped over the lazy dog.",
+  "@email.body": {
+    "type": "text"
+  },
+  "email.subject_line": "This is the subject line of my email",
+  "@email.subject_line": {
+    "type": "text"
+  },
+  "general.next": "next",
+  "@general.next": {
+    "type": "text"
+  },
+  "general.title": "Phrase Strings",
+  "@general.title": {
+    "type": "text"
+  }
+}
