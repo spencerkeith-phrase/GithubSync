@@ -3,5 +3,9 @@
   "admin.login": "Administrator Login",
   "@admin.login": {
     "type": "text"
+  },
+  "admin.next": "Admin, click next here.",
+  "@admin.next": {
+    "type": "text"
   }
 }
