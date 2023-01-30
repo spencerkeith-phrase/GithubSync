@@ -1,0 +1,35 @@
+{
+  "@@locale": "en_US",
+  "admin.login": "Administrator Login",
+  "@admin.login": {
+    "type": "text"
+  },
+  "admin.next": "Admin, click next here.",
+  "@admin.next": {
+    "type": "text"
+  },
+  "email.body": "The quick brown fox jumped over the lazy dog.",
+  "@email.body": {
+    "type": "text"
+  },
+  "email.subject_line": "This is the subject line of my email",
+  "@email.subject_line": {
+    "type": "text"
+  },
+  "general.agree_button": "Agree",
+  "@general.agree_button": {
+    "type": "text"
+  },
+  "general.next": "Next",
+  "@general.next": {
+    "type": "text"
+  },
+  "general.title": "Phrase Strings",
+  "@general.title": {
+    "type": "text"
+  },
+  "Untagged.key": "This key has no tag",
+  "@Untagged.key": {
+    "type": "text"
+  }
+}
