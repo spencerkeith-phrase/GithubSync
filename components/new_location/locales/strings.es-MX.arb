@@ -1,35 +1,26 @@
 {
-  "@@locale": "es_MX",
-  "admin.login": "Inicio de sesión de administrador",
-  "@admin.login": {
-    "type": "text"
+  "admin.login": {
+    "message": "Inicio de sesión de administrador"
   },
-  "admin.next": "Administrador, haga clic en siguiente aquí.",
-  "@admin.next": {
-    "type": "text"
+  "admin.next": {
+    "message": "Administrador, haga clic en siguiente aquí."
   },
-  "email.body": "El rápido zorro marrón saltó sobre el perro perezoso.",
-  "@email.body": {
-    "type": "text"
+  "email.body": {
+    "message": "El rápido zorro marrón saltó sobre el perro perezoso."
   },
-  "email.subject_line": "Esta es la línea de asunto de mi correo electrónico",
-  "@email.subject_line": {
-    "type": "text"
+  "email.subject_line": {
+    "message": "Esta es la línea de asunto de mi correo electrónico"
   },
-  "general.agree_button": "Acuerdo",
-  "@general.agree_button": {
-    "type": "text"
+  "general.agree_button": {
+    "message": "Acuerdo"
   },
-  "general.next": "Próximo",
-  "@general.next": {
-    "type": "text"
+  "general.next": {
+    "message": "Próximo"
   },
-  "general.title": "Cadenas de frase",
-  "@general.title": {
-    "type": "text"
+  "general.title": {
+    "message": "Cadenas de frase"
   },
-  "Untagged.key": "Esta clave no tiene etiqueta",
-  "@Untagged.key": {
-    "type": "text"
+  "Untagged.key": {
+    "message": "Esta clave no tiene etiqueta"
   }
 }

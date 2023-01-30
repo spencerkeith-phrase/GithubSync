@@ -1,31 +1,23 @@
 {
-  "@@locale": "ko_KR",
-  "admin.login": "관리자 로그인",
-  "@admin.login": {
-    "type": "text"
+  "admin.login": {
+    "message": "관리자 로그인"
   },
-  "email.body": "빠른 갈색 여우는 게으른 개를 뛰어 넘었습니다.",
-  "@email.body": {
-    "type": "text"
+  "email.body": {
+    "message": "빠른 갈색 여우는 게으른 개를 뛰어 넘었습니다."
   },
-  "email.subject_line": "이것은 내 이메일의 제목 줄입니다.",
-  "@email.subject_line": {
-    "type": "text"
+  "email.subject_line": {
+    "message": "이것은 내 이메일의 제목 줄입니다."
   },
-  "general.agree_button": "동의",
-  "@general.agree_button": {
-    "type": "text"
+  "general.agree_button": {
+    "message": "동의"
   },
-  "general.next": "다음",
-  "@general.next": {
-    "type": "text"
+  "general.next": {
+    "message": "다음"
   },
-  "general.title": "구문 문자열",
-  "@general.title": {
-    "type": "text"
+  "general.title": {
+    "message": "구문 문자열"
   },
-  "Untagged.key": "이 키에는 태그가 없습니다.",
-  "@Untagged.key": {
-    "type": "text"
+  "Untagged.key": {
+    "message": "이 키에는 태그가 없습니다."
   }
 }
