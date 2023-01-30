@@ -29,4 +29,3 @@ phrase:
     - file: components/new_location/locales/strings.<locale_name>.arb
       params:
         file_format: arb
-        tags: admin
