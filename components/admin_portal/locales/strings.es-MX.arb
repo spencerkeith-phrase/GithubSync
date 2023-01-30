@@ -3,5 +3,9 @@
   "admin.login": "Inicio de sesión de administrador",
   "@admin.login": {
     "type": "text"
+  },
+  "admin.next": "Administrador, haga clic en siguiente aquí.",
+  "@admin.next": {
+    "type": "text"
   }
 }

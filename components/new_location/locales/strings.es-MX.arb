@@ -1,0 +1,35 @@
+{
+  "@@locale": "es_MX",
+  "admin.login": "Inicio de sesión de administrador",
+  "@admin.login": {
+    "type": "text"
+  },
+  "admin.next": "Administrador, haga clic en siguiente aquí.",
+  "@admin.next": {
+    "type": "text"
+  },
+  "email.body": "El rápido zorro marrón saltó sobre el perro perezoso.",
+  "@email.body": {
+    "type": "text"
+  },
+  "email.subject_line": "Esta es la línea de asunto de mi correo electrónico",
+  "@email.subject_line": {
+    "type": "text"
+  },
+  "general.agree_button": "Acuerdo",
+  "@general.agree_button": {
+    "type": "text"
+  },
+  "general.next": "Próximo",
+  "@general.next": {
+    "type": "text"
+  },
+  "general.title": "Cadenas de frase",
+  "@general.title": {
+    "type": "text"
+  },
+  "Untagged.key": "Esta clave no tiene etiqueta",
+  "@Untagged.key": {
+    "type": "text"
+  }
+}
