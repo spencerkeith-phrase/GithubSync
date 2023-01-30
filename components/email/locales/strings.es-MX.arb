@@ -4,6 +4,10 @@
   "@email.body": {
     "type": "text"
   },
+  "email.ending": "Este es el final de este correo electrónico.",
+  "@email.ending": {
+    "type": "text"
+  },
   "email.subject_line": "Esta es la línea de asunto de mi correo electrónico",
   "@email.subject_line": {
     "type": "text"

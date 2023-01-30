@@ -8,6 +8,9 @@
   "email.body": {
     "message": "The quick brown fox jumped over the lazy dog."
   },
+  "email.ending": {
+    "message": "This is the ending of this email."
+  },
   "email.subject_line": {
     "message": "This is the subject line of my email"
   },

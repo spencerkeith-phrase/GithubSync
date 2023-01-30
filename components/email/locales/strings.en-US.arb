@@ -4,6 +4,10 @@
   "@email.body": {
     "type": "text"
   },
+  "email.ending": "This is the ending of this email.",
+  "@email.ending": {
+    "type": "text"
+  },
   "email.subject_line": "This is the subject line of my email",
   "@email.subject_line": {
     "type": "text"
