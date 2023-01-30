@@ -8,6 +8,9 @@
   "email.body": {
     "message": "El rápido zorro marrón saltó sobre el perro perezoso."
   },
+  "email.ending": {
+    "message": "Este es el final de este correo electrónico."
+  },
   "email.subject_line": {
     "message": "Esta es la línea de asunto de mi correo electrónico"
   },
