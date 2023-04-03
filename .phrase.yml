@@ -3,27 +3,11 @@ phrase:
   project_id: 92820f0796d8dfdf4b3caa9ded21d30b
   push:
     sources:
-    - file: components/email/locales/strings.<locale_name>.arb
+    - file: ./<locale_name>.arb
       params:
         file_format: arb
   pull:
     targets:
-    - file: components/email/locales/strings.<locale_name>.arb
+    - file: ./<locale_name>.arb
       params:
         file_format: arb
-        tags: email
-        include_empty_translations: false
-        
-    - file: components/general/locales/strings.<locale_name>.arb
-      params:
-        file_format: arb
-        tags: general
-        include_empty_translations: false
-     
-    - file: components/admin_portal/locales/strings.<locale_name>.arb
-      params:
-        file_format: arb
-        tags: admin
-        include_empty_translations: false
-        
-    - file: components/new_location/locales/strings.<locale_name>.arb
