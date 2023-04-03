@@ -1,6 +1,6 @@
 phrase:
-  access_token: 2542ccdb9c2d4f7e462cf376af3cd8ad66ded4a0a7ab53207dd113721b58e27c
-  project_id: 1a1ce4ce3ba3e9dffb832ac3a7ad7acd
+ access_token: 029252c6c2d8fc43878a91bb989bc3da706c3de75ad99d88c4b0a5c34818fc99
+  project_id: 92820f0796d8dfdf4b3caa9ded21d30b
   push:
     sources:
     - file: components/email/locales/strings.<locale_name>.arb
