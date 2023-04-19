@@ -1,75 +1,35 @@
 {
   "@@locale": "es_MX",
-  "general.About Text": "Esta aplicación de demostración le otorgará una conciencia total",
-  "@general.About Text": {
+  "Back": "Atrás",
+  "@Back": {
     "type": "text"
   },
-  "general.back": "Atrás",
-  "@general.back": {
+  "Cancel": "Cancelar",
+  "@Cancel": {
     "type": "text"
   },
-  "general.cancel": "Cancelar",
-  "@general.cancel": {
+  "Forward": "Adelante",
+  "@Forward": {
     "type": "text"
   },
-  "general.confirm": "¿Estás seguro?",
-  "@general.confirm": {
+  "Hero_Description": "Esta aplicación le otorgará \"Conciencia Total\"",
+  "@Hero_Description": {
     "type": "text"
   },
-  "general.destroy": "Eliminar",
-  "@general.destroy": {
+  "Hero_Title": "¡La mejor aplicación que el mundo haya visto jamás!",
+  "@Hero_Title": {
     "type": "text"
   },
-  "general.edit": "Editar",
-  "@general.edit": {
+  "Long_story": "Una vez, cuando tenía seis años, vi una magnífica imagen en un libro, llamado True Stories from Nature, sobre el bosque primitivo. Era una imagen de una boa constrictor en el acto de tragar un animal. Aquí hay una copia del dibujo. En el libro decía: \"Las boas constrictoras tragan su presa entera, sin masticarla. Después de eso, no pueden moverse y duermen durante los seis meses que necesitan para la digestión\".\n\nReflexioné profundamente, entonces, sobre las aventuras de la selva. Y después de un poco de trabajo con un lápiz de colores logré hacer mi primer dibujo. Mi dibujo número uno. Se veía así:",
+  "@Long_story": {
     "type": "text"
   },
-  "general.new": "Nuevo",
-  "@general.new": {
+  "Long_Test": "El rápido zorro marrón saltó sobre el perro perezoso.",
+  "@Long_Test": {
     "type": "text"
   },
-  "Hello World": "Hola mundo",
-  "@Hello World": {
-    "type": "text"
-  },
-  "layouts.application.about": "Acerca de",
-  "@layouts.application.about": {
-    "type": "text"
-  },
-  "layouts.application.account": "Cuenta",
-  "@layouts.application.account": {
-    "type": "text"
-  },
-  "layouts.application.app_store": "Tienda",
-  "@layouts.application.app_store": {
-    "type": "text"
-  },
-  "layouts.application.logout": "Cerrar sesión",
-  "@layouts.application.logout": {
-    "type": "text"
-  },
-  "layouts.application.my_mails": "Mi correo",
-  "@layouts.application.my_mails": {
-    "type": "text"
-  },
-  "layouts.application.press": "Pulse",
-  "@layouts.application.press": {
-    "type": "text"
-  },
-  "layouts.application.preview": "Vista previa",
-  "@layouts.application.preview": {
-    "type": "text"
-  },
-  "layouts.application.profile": "Perfil",
-  "@layouts.application.profile": {
-    "type": "text"
-  },
-  "layouts.application.sign_in": "Iniciar sesión",
-  "@layouts.application.sign_in": {
-    "type": "text"
-  },
-  "layouts.application.sign_up": "Únete",
-  "@layouts.application.sign_up": {
+  "Send": "Enviar",
+  "@Send": {
     "type": "text"
   }
 }

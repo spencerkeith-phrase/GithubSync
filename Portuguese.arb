@@ -1,0 +1,35 @@
+{
+  "@@locale": "pt_BR",
+  "Back": "Voltar",
+  "@Back": {
+    "type": "text"
+  },
+  "Cancel": "Cancelar",
+  "@Cancel": {
+    "type": "text"
+  },
+  "Forward": "Avançar",
+  "@Forward": {
+    "type": "text"
+  },
+  "Hero_Description": "Este pedido conceder-lhe-á \"Consciência Total\".",
+  "@Hero_Description": {
+    "type": "text"
+  },
+  "Hero_Title": "A maior aplicação que o mundo já viu!",
+  "@Hero_Title": {
+    "type": "text"
+  },
+  "Long_story": "Uma vez, quando tinha seis anos de idade, vi uma imagem magnífica num livro, chamado True Stories from Nature (Histórias Verdadeiras da Natureza), sobre a floresta primitiva. Era uma imagem de uma jibóia no acto de engolir um animal. Aqui está uma cópia do desenho. No livro dizia: \"As jibóias engolem as suas presas inteiras, sem as mastigar. Depois disso não se conseguem mexer, e dormem durante os seis meses de que necessitam para a digestão\"\n\nPonderei profundamente, então, sobre as aventuras da selva. E depois de algum trabalho com um lápis de cor consegui fazer o meu primeiro desenho. O meu desenho número um. Parecia assim:",
+  "@Long_story": {
+    "type": "text"
+  },
+  "Long_Test": "A rápida raposa castanha saltou por cima do cão preguiçoso.",
+  "@Long_Test": {
+    "type": "text"
+  },
+  "Send": "Enviar",
+  "@Send": {
+    "type": "text"
+  }
+}
