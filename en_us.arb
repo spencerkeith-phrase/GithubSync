@@ -1,0 +1,75 @@
+{
+  "@@locale": "en_US",
+  "general.About Text": "This demo application will grant you total consciousness",
+  "@general.About Text": {
+    "type": "text"
+  },
+  "general.back": "Back",
+  "@general.back": {
+    "type": "text"
+  },
+  "general.cancel": "Cancel",
+  "@general.cancel": {
+    "type": "text"
+  },
+  "general.confirm": "Are you sure?",
+  "@general.confirm": {
+    "type": "text"
+  },
+  "general.destroy": "Delete",
+  "@general.destroy": {
+    "type": "text"
+  },
+  "general.edit": "Edit",
+  "@general.edit": {
+    "type": "text"
+  },
+  "general.new": "New",
+  "@general.new": {
+    "type": "text"
+  },
+  "Hello World": "Hello World",
+  "@Hello World": {
+    "type": "text"
+  },
+  "layouts.application.about": "About",
+  "@layouts.application.about": {
+    "type": "text"
+  },
+  "layouts.application.account": "Account",
+  "@layouts.application.account": {
+    "type": "text"
+  },
+  "layouts.application.app_store": "Store",
+  "@layouts.application.app_store": {
+    "type": "text"
+  },
+  "layouts.application.logout": "Logout",
+  "@layouts.application.logout": {
+    "type": "text"
+  },
+  "layouts.application.my_mails": "My Mail",
+  "@layouts.application.my_mails": {
+    "type": "text"
+  },
+  "layouts.application.press": "Press",
+  "@layouts.application.press": {
+    "type": "text"
+  },
+  "layouts.application.preview": "Preview ",
+  "@layouts.application.preview": {
+    "type": "text"
+  },
+  "layouts.application.profile": "Profile",
+  "@layouts.application.profile": {
+    "type": "text"
+  },
+  "layouts.application.sign_in": "Login",
+  "@layouts.application.sign_in": {
+    "type": "text"
+  },
+  "layouts.application.sign_up": "Sign Up",
+  "@layouts.application.sign_up": {
+    "type": "text"
+  }
+}
