@@ -1,3 +1,35 @@
 {
-  "@@locale": "fr_FR"
+  "@@locale": "fr_FR",
+  "Back": "Précédent",
+  "@Back": {
+    "type": "text"
+  },
+  "Cancel": "Annuler",
+  "@Cancel": {
+    "type": "text"
+  },
+  "Forward": "En avant",
+  "@Forward": {
+    "type": "text"
+  },
+  "Hero_Description": "Cette application vous accordera la « Conscience Totale »",
+  "@Hero_Description": {
+    "type": "text"
+  },
+  "Hero_Title": "La plus grande application que le monde ait jamais vue!",
+  "@Hero_Title": {
+    "type": "text"
+  },
+  "Long_story": "Une fois, quand j’avais six ans, j’ai vu une image magnifique dans un livre, intitulé True Stories from Nature, sur la forêt primitive. C’était une image d’un boa constrictor en train d’avaler un animal. Voici une copie du dessin. Dans le livre, il est dit : « Les boa constricteurs avalent leur proie entière, sans la mâcher. Après cela, ils ne sont plus capables de bouger et dorment pendant les six mois dont ils ont besoin pour se digérer. »\n\nJ’ai donc profondément réfléchi aux aventures de la jungle. Et après quelques travaux avec un crayon de couleur, j’ai réussi à faire mon premier dessin. Mon dessin numéro un. Cela ressemblait à ceci:",
+  "@Long_story": {
+    "type": "text"
+  },
+  "Long_Test": "Le renard brun rapide sauta par-dessus le chien paresseux.",
+  "@Long_Test": {
+    "type": "text"
+  },
+  "Send": "Envoyer",
+  "@Send": {
+    "type": "text"
+  }
 }

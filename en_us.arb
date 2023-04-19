@@ -1,75 +1,35 @@
 {
   "@@locale": "en_US",
-  "general.About Text": "This demo application will grant you total consciousness",
-  "@general.About Text": {
+  "Back": "Back",
+  "@Back": {
     "type": "text"
   },
-  "general.back": "Back",
-  "@general.back": {
+  "Cancel": "Cancel",
+  "@Cancel": {
     "type": "text"
   },
-  "general.cancel": "Cancel",
-  "@general.cancel": {
+  "Forward": "Forward\n",
+  "@Forward": {
     "type": "text"
   },
-  "general.confirm": "Are you sure?",
-  "@general.confirm": {
+  "Hero_Description": "This application will grant you “Total Consciousness”",
+  "@Hero_Description": {
     "type": "text"
   },
-  "general.destroy": "Delete",
-  "@general.destroy": {
+  "Hero_Title": "The Greatest App the World Has Ever Seen!",
+  "@Hero_Title": {
     "type": "text"
   },
-  "general.edit": "Edit",
-  "@general.edit": {
+  "Long_story": "Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest. It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing. In the book it said: \"Boa constrictors swallow their prey whole, without chewing it. After that they are not able to move, and they sleep through the six months that they need for digestion.\"\n\nI pondered deeply, then, over the adventures of the jungle. And after some work with a colored pencil I succeeded in making my first drawing. My Drawing Number One. It looked like this:\n",
+  "@Long_story": {
     "type": "text"
   },
-  "general.new": "New",
-  "@general.new": {
+  "Long_Test": "The quick brown fox jumped over the lazy dog.",
+  "@Long_Test": {
     "type": "text"
   },
-  "Hello World": "Hello World",
-  "@Hello World": {
-    "type": "text"
-  },
-  "layouts.application.about": "About",
-  "@layouts.application.about": {
-    "type": "text"
-  },
-  "layouts.application.account": "Account",
-  "@layouts.application.account": {
-    "type": "text"
-  },
-  "layouts.application.app_store": "Store",
-  "@layouts.application.app_store": {
-    "type": "text"
-  },
-  "layouts.application.logout": "Logout",
-  "@layouts.application.logout": {
-    "type": "text"
-  },
-  "layouts.application.my_mails": "My Mail",
-  "@layouts.application.my_mails": {
-    "type": "text"
-  },
-  "layouts.application.press": "Press",
-  "@layouts.application.press": {
-    "type": "text"
-  },
-  "layouts.application.preview": "Preview ",
-  "@layouts.application.preview": {
-    "type": "text"
-  },
-  "layouts.application.profile": "Profile",
-  "@layouts.application.profile": {
-    "type": "text"
-  },
-  "layouts.application.sign_in": "Login",
-  "@layouts.application.sign_in": {
-    "type": "text"
-  },
-  "layouts.application.sign_up": "Sign Up",
-  "@layouts.application.sign_up": {
+  "Send": "Send\n",
+  "@Send": {
     "type": "text"
   }
 }
