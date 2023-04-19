@@ -1,0 +1,75 @@
+{
+  "@@locale": "es_MX",
+  "general.About Text": "Esta aplicación de demostración le otorgará una conciencia total",
+  "@general.About Text": {
+    "type": "text"
+  },
+  "general.back": "Atrás",
+  "@general.back": {
+    "type": "text"
+  },
+  "general.cancel": "Cancelar",
+  "@general.cancel": {
+    "type": "text"
+  },
+  "general.confirm": "¿Estás seguro?",
+  "@general.confirm": {
+    "type": "text"
+  },
+  "general.destroy": "Eliminar",
+  "@general.destroy": {
+    "type": "text"
+  },
+  "general.edit": "Editar",
+  "@general.edit": {
+    "type": "text"
+  },
+  "general.new": "Nuevo",
+  "@general.new": {
+    "type": "text"
+  },
+  "Hello World": "Hola mundo",
+  "@Hello World": {
+    "type": "text"
+  },
+  "layouts.application.about": "Acerca de",
+  "@layouts.application.about": {
+    "type": "text"
+  },
+  "layouts.application.account": "Cuenta",
+  "@layouts.application.account": {
+    "type": "text"
+  },
+  "layouts.application.app_store": "Tienda",
+  "@layouts.application.app_store": {
+    "type": "text"
+  },
+  "layouts.application.logout": "Cerrar sesión",
+  "@layouts.application.logout": {
+    "type": "text"
+  },
+  "layouts.application.my_mails": "Mi correo",
+  "@layouts.application.my_mails": {
+    "type": "text"
+  },
+  "layouts.application.press": "Pulse",
+  "@layouts.application.press": {
+    "type": "text"
+  },
+  "layouts.application.preview": "Vista previa",
+  "@layouts.application.preview": {
+    "type": "text"
+  },
+  "layouts.application.profile": "Perfil",
+  "@layouts.application.profile": {
+    "type": "text"
+  },
+  "layouts.application.sign_in": "Iniciar sesión",
+  "@layouts.application.sign_in": {
+    "type": "text"
+  },
+  "layouts.application.sign_up": "Únete",
+  "@layouts.application.sign_up": {
+    "type": "text"
+  }
+}
